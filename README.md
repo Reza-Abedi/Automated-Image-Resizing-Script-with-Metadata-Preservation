@@ -1,7 +1,7 @@
 # Automated-Image-Resizing-Script-with-Metadata-Preservation
 This Node.js script offers a streamlined solution for resizing a collection of JPG images within a designated folder while preserving their original metadata. 
 
-This Node.js script offers a streamlined solution for resizing a collection of JPG images within a designated folder while preserving their original metadata. Leveraging the powerful sharp library, the script combines efficiency with flexibility, allowing users to tailor the resizing process to their specific needs. The inclusion of the preserveMetadata: true option ensures that crucial image metadata, such as EXIF information, is retained throughout the resizing operation, maintaining the integrity of the image files.
+Leveraging the powerful sharp library, the script combines efficiency with flexibility, allowing users to tailor the resizing process to their specific needs. The inclusion of the preserveMetadata: true option ensures that crucial image metadata, such as EXIF information, is retained throughout the resizing operation, maintaining the integrity of the image files.
 Image resizing is a common requirement in various scenarios, from web development to content management. However, resizing images often comes at the cost of losing valuable metadata, potentially impacting the quality and context of the images. This script addresses this challenge by utilizing the sharp library and introducing the preserveMetadata: true option, enabling users to resize images without compromising their essential metadata.
 
 ## Features
